@@ -6,3 +6,4 @@ matplotlib
 seaborn
 ipywidgets
 notebook
+streamlit>=1.18.0
